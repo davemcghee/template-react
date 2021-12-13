@@ -1,4 +1,4 @@
-# react-material-template
+# template-react
 
 Empty React application set up for material ui with typescript and webpack.
 
